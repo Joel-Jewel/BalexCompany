@@ -6,7 +6,7 @@ package vu.balex_company;
 
 /**
  *
- * @author Joel Jewels Mulungi 
+ * coded by Joel Jewels Mulungi 
  */
 public class Balex_Company {
 
