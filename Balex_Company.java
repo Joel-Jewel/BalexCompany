@@ -57,6 +57,6 @@ public class Balex_Company {
             calculatePay(basePays[i], hoursWorked[i]);
             System.out.println();
         }
-        System.out.println("================= My Ouput As ABAASA ALBERT ============");
+        System.out.println("================= My Ouput As Joel Jewels Mulungi  ============");
     }
 }
