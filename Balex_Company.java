@@ -51,7 +51,7 @@ public class Balex_Company {
         int[] hoursWorked = {35, 47, 73};
 
         // Process each employee's pay
-        System.out.println("================= My Ouput As ABAASA ALBERT ============");
+        System.out.println("================= My Ouput As JOEL JEWELS MULUNGI ============");
         for (int i = 0; i < basePays.length; i++) {
             System.out.println("Employee " + (i + 1) + ":");
             calculatePay(basePays[i], hoursWorked[i]);
